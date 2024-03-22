@@ -1,0 +1,31 @@
+{
+  "name": "eiusautem",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=8"
+  },
+  "keywords": [
+    "fuga",
+    "voluptatem"
+  ],
+  "author": "LeonelNienow",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "^1.2.2",
+    "@changesets/cli": "^2.26.2",
+    "@wagmi/cli": "^1.5.2",
+    "husky": "^8.0.3",
+    "typescript": "^5.2.2",
+    "vitepress": "1.0.0-rc.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TyreeBartoletti/eiusautem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TyreeBartoletti/eiusautem.git/issues"
+  },
+  "homepage": "https://github.com/TyreeBartoletti/eiusautem.git"
+}
